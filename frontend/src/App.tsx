@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./Screens/Home";
+import AppRouter from "./Navigation/AppRouter";
 
 function App() {
-  return <Home />;
+  return <AppRouter />;
 }
 
 export default App;
